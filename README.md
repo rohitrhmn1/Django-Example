@@ -41,3 +41,8 @@ rewrite and infers the type straight from the tuple literal.
 4. The warning appears on the `OTHER = "other", "Other"` line.
 
 ![img.png](img.png)
+
+## Tracking issue
+
+[PY-92177](https://youtrack.jetbrains.com/issue/PY-92177) — confirmed by JetBrains
+as a bug, assigned to a developer, no fix build yet.
